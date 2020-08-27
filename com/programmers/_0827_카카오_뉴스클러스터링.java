@@ -3,7 +3,7 @@ package com.programmers;
 import java.util.HashMap;
 import java.util.Map;
 
-public class _0825_카카오_뉴스클러스터링 {
+public class _0827_카카오_뉴스클러스터링 {
 
 	public static void main(String[] args) {
 		String st1 = "E=M*C^2";
