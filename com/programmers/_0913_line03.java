@@ -1,5 +1,3 @@
-package com.programmers;
-
 import java.util.Arrays;
 
 public class _0913_line03 {

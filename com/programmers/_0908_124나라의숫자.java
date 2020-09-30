@@ -1,5 +1,3 @@
-package com.programmers;
-
 public class _0908_124나라의숫자 {
 
     public static void main(String[] args) {
@@ -8,7 +6,7 @@ public class _0908_124나라의숫자 {
     }
 
     public static String solution(int n) {
-    	StringBuffer sb = new StringBuffer();
+        StringBuffer sb = new StringBuffer();
         String[] arr = {"4", "1", "2"};
         // 3 x a + 1,2,3 => 1, 2, 4
         while(true){

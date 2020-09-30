@@ -1,5 +1,3 @@
-package com.programmers;
-
 import java.util.*;
 
 public class _0913_line02 {

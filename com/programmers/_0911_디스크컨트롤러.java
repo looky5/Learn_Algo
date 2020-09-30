@@ -1,5 +1,3 @@
-package com.programmers;
-
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.PriorityQueue;
@@ -49,6 +47,7 @@ public class _0911_디스크컨트롤러 {
             curTime += task[1];
             answer += curTime - task[0];
         }
+        System.out.println("answer: " + answer);
         return answer / jobs.length;
     }
 }

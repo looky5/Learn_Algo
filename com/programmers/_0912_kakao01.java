@@ -1,4 +1,5 @@
-package com.programmers;
+import java.util.HashMap;
+import java.util.Map;
 
 public class _0912_kakao01 {
 
@@ -31,6 +32,8 @@ public class _0912_kakao01 {
                 sb.append(c);
             }
         }
+        Map<Integer, Integer[]> map = new HashMap<>();
+        map.put(3, new Integer[]{0, 1, 2});
         return sb.toString();
     }
 }
