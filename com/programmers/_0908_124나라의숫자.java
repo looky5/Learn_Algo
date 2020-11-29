@@ -1,3 +1,5 @@
+package com.programmers;
+
 public class _0908_124나라의숫자 {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package com.programmers;
+
 public class _0910_소수찾기 {
 
     public static void main(String[] args) {

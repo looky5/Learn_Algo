@@ -1,3 +1,4 @@
+package com.programmers;
 
 
 public class _1020_단체사진찍기 {

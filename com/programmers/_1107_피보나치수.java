@@ -1,3 +1,4 @@
+package com.programmers;
 public class _1107_피보나치수 {
     public static void main(String[] args) {
         int n = 100;

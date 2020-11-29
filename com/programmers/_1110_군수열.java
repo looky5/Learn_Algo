@@ -1,3 +1,4 @@
+package com.programmers;
 public class _1110_군수열 {
     public static void main(String[] args) {
         long k = 50000000000L;

@@ -1,3 +1,5 @@
+package com.programmers;
+
 public class _1014_큰수만들기 {
 
     public static void main(String[] args) {

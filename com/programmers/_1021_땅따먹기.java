@@ -1,3 +1,4 @@
+package com.programmers;
 
 
 public class _1021_땅따먹기 {

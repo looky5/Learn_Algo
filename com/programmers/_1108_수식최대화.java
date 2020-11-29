@@ -1,3 +1,4 @@
+package com.programmers;
 import java.util.ArrayList;
 
 public class _1108_수식최대화 {

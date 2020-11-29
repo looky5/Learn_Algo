@@ -1,3 +1,4 @@
+package com.programmers;
 public class _1021_다음큰숫자 {
     public static void main(String[] args) {
         int n = 6;

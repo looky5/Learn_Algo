@@ -1,3 +1,4 @@
+package com.programmers;
 import java.util.*;
 
 public class _1015_위장 {

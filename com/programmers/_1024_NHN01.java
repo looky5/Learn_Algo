@@ -1,3 +1,4 @@
+package com.programmers;
 public class _1024_NHN01 {
 
     public static void main(String[] args) {

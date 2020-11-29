@@ -1,3 +1,5 @@
+package com.programmers;
+
 import java.util.ArrayList;
 
 public class _0912_kakao03 {

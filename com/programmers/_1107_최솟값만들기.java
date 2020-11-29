@@ -1,3 +1,4 @@
+package com.programmers;
 import java.util.Arrays;
 
 public class _1107_최솟값만들기 {

@@ -1,3 +1,4 @@
+package com.programmers;
 import java.util.Arrays;
 
 public class _1106_이진변환반복하기 {
